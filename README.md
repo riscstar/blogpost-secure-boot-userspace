@@ -1,4 +1,6 @@
-# This material accompanies the blog post: TODO
+# This material accompanies the blog post
+
+accompanies the blog post: https://www.cnx-software.com/2025/08/15/embedded-device-security-protecting-linux-systems-with-modern-tools/
 
 ## Install dependencies:
 
